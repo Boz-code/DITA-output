@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="Untitled" path="topics/c_About_sup.html"/>
+   <appContext helpID="c_sup_history" path="topics/c_sup_history.html"/>
+   <appContext helpID="r_sup_reference" path="topics/c_sup_reference.html"/>
+   <appContext helpID="c_types_of_boards" path="topics/c_types_of_boards.html"/>
+   <appContext helpID="c_how_to" path="topics/c_how_to.html"/>
+   <appContext helpID="t_How_to_paddle" path="topics/t_How_to_paddle.html"/>
+   <appContext helpID="task_tdx_c5x_bpb"
+               path="topics/t_How_to_pump_a_paddle_board.html"/>
+   <appContext helpID="c_glossary" path="topics/glossary/c_glossary.html"/>
+   <appContext helpID="glossentry_gjf_x5b_cpb" path="topics/glossary/g_EVA.html"/>
+   <appContext helpID="glo" path="topics/glossary/g_Inflatable.html"/>
+   <appContext helpID="Untitled" path="topics/glossary/g_SUP.html"/>
+</map>
